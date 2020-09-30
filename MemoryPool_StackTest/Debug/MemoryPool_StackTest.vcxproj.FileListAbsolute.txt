@@ -1,0 +1,2 @@
+E:\Code\C++\MemoryPool_StackTest\Debug\MemoryPool_StackTest.exe
+E:\Code\C++\MemoryPool_StackTest\Debug\MemoryPool_StackTest.pdb
