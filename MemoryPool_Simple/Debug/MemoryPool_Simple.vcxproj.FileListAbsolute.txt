@@ -1,0 +1,2 @@
+E:\Code\C++\MemoryPool_Simple\Debug\MemoryPool_Simple.exe
+E:\Code\C++\MemoryPool_Simple\Debug\MemoryPool_Simple.pdb

@@ -1,0 +1,8 @@
+﻿  MemoryPool.cpp
+E:\Code\C++\MemoryPool_Simple\MemoryPool.cpp(35,85): warning C4291: “void *MemoryBlock::operator new(size_t,const unsigned short,const unsigned short)”: 未找到匹配的删除运算符；如果初始化引发异常，则不会释放内存
+E:\Code\C++\MemoryPool_Simple\MemoryBlock.h(17): message : 参见“MemoryBlock::operator new”的声明
+E:\Code\C++\MemoryPool_Simple\MemoryPool.cpp(56,72): warning C4291: “void *MemoryBlock::operator new(size_t,const unsigned short,const unsigned short)”: 未找到匹配的删除运算符；如果初始化引发异常，则不会释放内存
+E:\Code\C++\MemoryPool_Simple\MemoryBlock.h(17): message : 参见“MemoryBlock::operator new”的声明
+  Test_1.cpp
+  正在生成代码...
+  MemoryPool_Simple.vcxproj -> E:\Code\C++\MemoryPool_Simple\Debug\MemoryPool_Simple.exe
